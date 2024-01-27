@@ -6,3 +6,4 @@ import * as Schema from './schema';
  const client = postgres(connectionString)
  
  export const db = drizzle(client)
+ 

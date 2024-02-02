@@ -10,7 +10,9 @@ app.use(express.json())
 
 // OUR ROUTES IMPORT
 import userRoutes from './routes/user.routes'
+import postsRoutes from './routes/post.routes'
 
 app.use('/api/users', userRoutes)
+app.use('/api/posts', postsRoutes)
 
 export {app}

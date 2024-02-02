@@ -22,6 +22,55 @@
       "when": 1706364848363,
       "tag": "0002_round_big_bertha",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1706380314144,
+      "tag": "0003_perpetual_goblin_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1706597144487,
+      "tag": "0004_minor_wasp",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1706604096855,
+      "tag": "0005_curly_switch",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1706613839614,
+      "tag": "0006_loving_lifeguard",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1706620991586,
+      "tag": "0007_furry_obadiah_stane",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1706621088040,
+      "tag": "0008_great_talon",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1706713325277,
+      "tag": "0009_cuddly_dormammu",
+      "breakpoints": true
     }
   ]
 }

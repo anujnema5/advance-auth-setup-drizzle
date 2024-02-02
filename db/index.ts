@@ -5,5 +5,7 @@ import * as Schema from './schema';
  const connectionString = process.env.DATABASE_URL as string
  const client = postgres(connectionString)
  
- export const db = drizzle(client)
+ export const db = drizzle(client, {
+    schema: Schema
+ })
  
